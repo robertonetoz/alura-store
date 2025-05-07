@@ -32,7 +32,7 @@ Este projeto realiza uma análise detalhada de dados de vendas provenientes de q
 
 ### 1. Clone o repositório (ou carregue o notebook no Google Colab):
 ```bash
-git clone https://github.com/seu-usuario/projeto-analise-lojas.git
+git clone https://github.com/robertonetoz/projeto-analise-lojas.git
 ```
 
 ### 2. Instale as dependências (caso esteja rodando localmente):
@@ -42,20 +42,6 @@ pip install pandas matplotlib folium
 
 ### 3. Execute o notebook:
 Abra o arquivo `.ipynb` no Jupyter Notebook ou Google Colab e siga os passos indicados.
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-📦 projeto-analise-lojas
-├── loja_1.csv
-├── loja_2.csv
-├── loja_3.csv
-├── loja_4.csv
-├── analise_lojas.ipynb
-└── README.md
-```
 
 ---
 
